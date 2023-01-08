@@ -8,7 +8,6 @@ import 'package:movies_app/movies/presentation/controllers/auth_controller/cubit
 import 'package:movies_app/movies/presentation/screens/drawer/profile/upload_image_dialog.dart';
 import 'package:movies_app/movies/presentation/widgets/custome_button.dart';
 import 'package:movies_app/movies/presentation/widgets/custome_form_field.dart';
-import 'package:movies_app/movies/presentation/widgets/custome_static_color_text.dart';
 
 class BottomSheetWidget extends StatelessWidget {
   const BottomSheetWidget({super.key});
