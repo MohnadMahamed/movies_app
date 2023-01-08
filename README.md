@@ -1,16 +1,5 @@
 # movies_app
 
-A new Flutter project.
+# Video
+## https://user-images.githubusercontent.com/62365860/211195565-66dc5f00-9644-4ef7-898a-4a2950c4582e.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
